@@ -1,0 +1,5 @@
+2017_10_16_Print contains print data on a 8mm*8mm base for 5 layers. Resolution is 0.125mm, so each height profile is a 64*64 matrix, unit of matrix values is mm. 
+Load the .mat in matlab. There are 11 variables.
+base is the base height profile.
+layer_1 to layer_5 are the heihgt profiles from the 1st layer to the 5th layer.
+input_1 to input_5 are the inputs from the 1st layer to the 5th layer.
